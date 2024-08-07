@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "pg-student-itskunalphalswal-test.c.aivencloud.com",
+            "port": 20249,
+            "driver": "PostgreSQL",
+            "group": "personal",
+            "name": "Screecher",
+            "database": "defaultdb",
+            "username": "avnadmin",
+            "password": "avnadmin"
+        }
+    ]
+}
