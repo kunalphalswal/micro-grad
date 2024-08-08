@@ -1,0 +1,1 @@
+- The values of the training data should be objects of class Value before being passed to the model.
