@@ -1,1 +1,2 @@
+- Implemented basic back propagation while learning it from karpthy's [video]([url](https://youtu.be/VMj-3S1tku0?si=lUwaGDpuZhPbZ29A))
 - The values of the training data should be objects of class Value before being passed to the model.
